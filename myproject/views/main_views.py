@@ -8,4 +8,4 @@ def hello():
 
 @bp.route('/wooyoon')
 def hello_wooyoon():
-    return f'Hello wooyoone'
+    return f'Hello wooyoon'
